@@ -9,6 +9,9 @@ A Colorado Board of Elections offical has given me the task to audit a recent lo
 3. Total number of votes each candidate received
 4. Percentage of votes each candidate won
 5. The winner of the election based on popular vote
+6. The voter turnout for each county
+7. The percentage of votes from each county out of the total count
+8. The county with the highest turnout
 
 ## Resources
 
