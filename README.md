@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview 
+## Project Overview: 
 
 A Colorado Board of Elections offical has given me the task to audit a recent local congressional election. Need to deliver the following information:
 
@@ -13,12 +13,12 @@ A Colorado Board of Elections offical has given me the task to audit a recent lo
 7. The percentage of votes from each county out of the total count
 8. The county with the highest turnout
 
-## Resources
+## Resources:
 
 -Data source: election_result.csv <br />
 -Software Python 3.8.2, Visual Studio Code 1.38.1
 
-## Summary
+## Election-Audit Results:
 
 Election Results <br />
 ------------------------- <br />
@@ -39,3 +39,6 @@ Winner: Diana DeGette <br />
 Winning Vote Count: 272,892 <br />
 Winning Percentage: 73.8% <br />
 ------------------------- <br />
+
+## Summary
+
