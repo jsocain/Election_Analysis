@@ -15,30 +15,30 @@ A Colorado Board of Elections offical has given me the task to audit a recent lo
 
 ## Resources:
 
--Data source: election_result.csv <br />
--Software Python 3.8.2, Visual Studio Code 1.38.1
+- Data source: election_result.csv <br />
+- Software Python 3.8.2, Visual Studio Code 1.38.1
 
 ## Election-Audit Results:
 
-Election Results <br />
+Total Votes Cast in Election: 369,711 <br />
 ------------------------- <br />
-Total Votes: 369,711 <br />
+### Breakdown of the number of votes and the percentage of total votes for each county in the precinct: <br />
+* Jefferson: 10.5% (38,855) <br />
+* Denver: 82.8% (306,055) <br />
+* Arapahoe: 6.7% (24,801) <br />
 ------------------------- <br />
-County Votes: <br />
-Jefferson: 10.5% (38,855) <br />
-Denver: 82.8% (306,055) <br />
-Arapahoe: 6.7% (24,801) <br />
+Denver county had the largest number of votes<br />
 ------------------------- <br />
-Largest County Turnout: Denver<br />
+### Breakdown of the number of votes and the percentage of the total votes each candidate received<br />
+* Charles Casper Stockham: 23.0% (85,213) <br />
+* Diana DeGette: 73.8% (272,892) <br />
+* Raymon Anthony Doane: 3.1% (11,606) <br />
 ------------------------- <br />
-Charles Casper Stockham: 23.0% (85,213) <br />
-Diana DeGette: 73.8% (272,892) <br />
-Raymon Anthony Doane: 3.1% (11,606) <br />
-------------------------- <br />
-Winner: Diana DeGette <br />
-Winning Vote Count: 272,892 <br />
-Winning Percentage: 73.8% <br />
+* Winner: Diana DeGette <br />
+* Winning Vote Count: 272,892 <br />
+* Winning Percentage: 73.8% <br />
 ------------------------- <br />
 
-## Summary
+## Election-Audit Summary
+Changing the script just a bit, by making 2 changes, updating the file_to_load variable and the file_to_save varible, this script could be applied to any election. 
 
